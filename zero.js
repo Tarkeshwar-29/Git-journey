@@ -1,2 +1,1 @@
-console.log("zero");
-console.log("update is doing");
+console.log(0);
