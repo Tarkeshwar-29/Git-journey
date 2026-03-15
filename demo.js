@@ -1,1 +1,1 @@
-console.log("creating without any purpose");
+console.log("hello, world from demo.js");
